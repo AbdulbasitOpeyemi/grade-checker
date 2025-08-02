@@ -6,11 +6,10 @@
         } 
                 /** project body **/
         body{
-            background-color: rgb(145, 226, 15);
+            background-color: white;
         }
 
         #grade-form{
-            width: 400px;
             height: auto;
             line-height: 20px;
             text-align: center;
@@ -23,7 +22,6 @@
         }
 
         #prompt {
-            width: 500px;
             margin: 20px auto;
             padding: 10px;
             border: 1px solid grey;
@@ -35,5 +33,6 @@
             font-size: large;
 
         }
+
 
         
